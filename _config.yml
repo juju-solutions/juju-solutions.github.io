@@ -1,0 +1,15 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://juju-solutions.github.io
+title: Juju Solutions
+subtitle: Solving your hard problems
+author: Canonical Juju Solutions Team
+simple_search: http://google.com/search
+description:
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+markdown: kramdown
