@@ -5,7 +5,7 @@ Team blog for the Juju Ecosystem
 ## Workflow
 
 1. Fork this repository
-2. Write markdown files in _posts and _drafts, the filename _must_ be in the form of:
+2. Write markdown files in the `_posts` and `_drafts` directories, the filename _must_ be in the form of:
 
        YYYY-MM-DD-title.md
        
