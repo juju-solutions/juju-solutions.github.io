@@ -5,7 +5,14 @@ Team blog for the Juju Ecosystem
 ## Workflow
 
 1. Fork this repository
-2. Write markdown files in _posts and _drafts, the top of your post needs this slug:
+2. Write markdown files in _posts and _drafts, the filename _must_ be in the form of:
+
+       YYYY-MM-DD-title.md
+       
+    as and example, `2014-10-10-introducting-juju-charms.md`
+       
+
+    the top of your post needs this slug:
 
         ---
         layout: post
@@ -13,8 +20,8 @@ Team blog for the Juju Ecosystem
         comments: true
         ---
 
-
-3. Issue a pull request when you are ready to publish
+3. Run `jekyll serve` locally to double check your work and check it in your browser at `http://localhost:4000`
+3. Issue a pull request when you are ready to publish.
 
 ## More info
 
