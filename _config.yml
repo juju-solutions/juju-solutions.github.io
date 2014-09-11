@@ -13,3 +13,4 @@ source:      .
 destination: ./_site
 plugins:     ./_plugins
 markdown: kramdown
+excerpt_separator: "<!-- more -->"
