@@ -6,7 +6,7 @@ layout: default
 {{ content }}
 </div>
 <div id="meta">
-    by {{page.author}} on {{ page.date | date_to_string }}
+    {% include byline.html post=page %}
 </div>
 
 {% if site.related_posts != empty %}

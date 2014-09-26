@@ -4,6 +4,8 @@ title: "Deploying ElasticSearch clusters with Juju and Ansible"
 date: 2014-09-09 10:06
 comments: true
 categories: [cloud, juju]
+author: "Jorge Castro"
+author_url: "@castrojo"
 ---
 
 [ElasticSearch](http://www.elasticsearch.org/) is one of those tools that's just
