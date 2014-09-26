@@ -11,7 +11,7 @@ layout: default
             {{ post.content | split:site.excerpt_separator | first }}
             {% if post.content contains site.excerpt_separator %}<a href="{{ post.url }}">Continue reading&hellip;</a>{% endif %}
         </p>
-
+        {% unless forloop.last %}<hr/>{% endunless %}
 {% endfor %}
 
 </div>
