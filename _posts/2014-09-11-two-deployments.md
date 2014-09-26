@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Juju's model vs Cloudfoundry"
+title: "A Tale of Two Deployments"
 date: 2014-09-11 10:06
 comments: true
 categories: [cloud, juju]
