@@ -12,7 +12,9 @@ stack for [all sorts of things](http://www.elasticsearch.org/overview/).
 
 One thing we'd like to see is to bring these capabilities to our users. So I've
 been working on bundling together some of our ElasticSearch resources in Ubuntu
-so we can bring them to the cloud, it looks like this:
+so we can bring them to the cloud.
+
+<!-- more -->
 
 This is a standalone ElasticSearch cluster. I've added a few things:
 
