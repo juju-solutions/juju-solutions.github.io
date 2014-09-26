@@ -18,6 +18,8 @@ Team blog for the Juju Ecosystem
         layout: post
         title: "your title"
         comments: true
+        author: "Your Name"
+        author_url: "[optional] http://example.com or @gh_username"
         ---
 
 3. Run `jekyll serve` locally to double check your work and check it in your browser at `http://localhost:4000`
