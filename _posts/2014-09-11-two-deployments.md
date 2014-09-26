@@ -4,9 +4,9 @@ title: "A Tale of Two Deployments"
 date: 2014-09-11 10:06
 comments: true
 categories: [cloud, juju]
+author: "Benjamin Saller"
+author_url: "@bcsaller"
 ---
-
-By: @bcsaller
 
 At the Juju Solutions sprint this week we saw a nice example of using the Rails
 charm to deploy a sample app/workload right out of github
