@@ -8,9 +8,9 @@ Team blog for the Juju Ecosystem
 2. Write markdown files in the `_posts` and `_drafts` directories, the filename _must_ be in the form of:
 
        YYYY-MM-DD-title.md
-       
+
     as and example, `2014-10-10-introducting-juju-charms.md`
-       
+
 
     the top of your post needs this slug:
 
@@ -30,12 +30,12 @@ Team blog for the Juju Ecosystem
  - [github pages w/ jekyll](https://help.github.com/articles/using-jekyll-with-pages)
 
  - [gh blog for n00bs](http://in-the-attic.com/2013/01/04/building-a-blog-using-jekyll-bootstrap-and-github-pages-a-beginners-guide/)
- - 
- 
+
+
 ## Installing Jekyll on your machine
 
 You only need this if you want to preview your work locally before pushing:
 
-    sudo apt-get install ruby ruby-dev make
-    sudo gem install jekyll --no-rdoc --no-ri
+    sudo apt-get install ruby ruby-dev make nodejs
+    sudo gem install jekyll jekyll-mentions --no-rdoc --no-ri
 
