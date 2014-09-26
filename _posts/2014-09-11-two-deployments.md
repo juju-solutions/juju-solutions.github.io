@@ -18,7 +18,11 @@ CloudFoundry.
 
 By adding a few lines to a clean checkout of the project (a manifest.yml) I was
 able to deploy the same application to a Juju deployed and managed CloudFoundry
-instance. Just to show the scope of change, look at the following:
+instance.
+
+<!-- more -->
+
+Just to show the scope of change, look at the following:
 
     ---
     applications:
