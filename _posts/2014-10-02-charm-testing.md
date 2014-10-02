@@ -15,6 +15,8 @@ is a summary of the current state of charm testing, plans for the
 future, and some testing-related tips and recommendations for charm
 authors.
 
+<!-- more -->
+
 ## Overview
 
 We've set up a [Jenkins
