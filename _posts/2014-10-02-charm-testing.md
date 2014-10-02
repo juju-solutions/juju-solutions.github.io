@@ -39,10 +39,10 @@ Tests are executed by
 default will run:
 
 * `charm proof`, the charm linter
-* Any executable files in a `tests/` dir in the charm. Typically these
-  will be [amulet](https://github.com/marcoceppi/amulet) tests.
 * `make test` and `make lint`, if a Makefile exists in the charm and
   these targets are defined.
+* Any executable files in a `tests/` dir in the charm. Typically these
+  will be [amulet](https://github.com/marcoceppi/amulet) tests.
 
 The Jenkins job doesn't actually run `bundletester` directly. Instead,
 it runs
