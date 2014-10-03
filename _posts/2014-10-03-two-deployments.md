@@ -45,8 +45,8 @@ show the scope of change, look at the following:
 
 Then I deployed into cf.
 
-   cd highscore
-   cf push
+    cd highscore
+    cf push
 
 
 Pretty simple.
