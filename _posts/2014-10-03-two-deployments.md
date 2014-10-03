@@ -10,7 +10,7 @@ author_url: "@bcsaller"
 
 By: @bcsaller w/ @whitmo
 
-At the Juju Solutions sprint this week
+At the Juju Solutions sprint in Dillon
 [Chuck Butler](https://twitter.com/lazypower) demoed a nice example of
 using the
 [Rails charm](https://manage.jujucharms.com/charms/precise/rails) to
