@@ -28,9 +28,12 @@ develop and deploy experience as using a PAAS like [Cloudfoundry](http://cloudfo
 
 My curiousity piqued, I did an experiment to compare the the relative
 experience of deploying a rails app via a framework charm vs. the
-experience of deploying the same app into a PAAS.  First I juju
-deployed Cloudfoundry into AWS. Then I prepared the demo app for cf
-deployment.
+experience of deploying the same app into a PAAS.
+
+<!-- more -->
+
+First I juju deployed Cloudfoundry into AWS. Then I prepared the demo
+app for cf deployment.
 
 By adding a few lines (a manifest.yml) to a clean checkout I was able
 to deploy the same application to a my CloudFoundry instance. Just to
