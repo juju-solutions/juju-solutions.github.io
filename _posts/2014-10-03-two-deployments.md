@@ -120,6 +120,7 @@ Rails charm with its needs and requirements from those of the
 application payload that it manages. This is the idea of Juju
 deploying things that we deploy things onto. CF might be one example
 of a Juju deployed thing we deploy other things to, but at the same
-time, so is the Rails charm, so is Mesos, so is Kubernetes. Deploying
-things into things we've deployed is an exciting growth path for Juju
-and a topic for another day.
+time, so is the Rails charm, so is Mesos, so is Kubernetes.
+
+Deploying things into things we've deployed is an exciting growth path
+for Juju and a topic for another day.
