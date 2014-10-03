@@ -3,7 +3,8 @@ layout: post
 title: "A tail of two deployments"
 date: 2014-10-03 10:06
 comments: true
-categories: [cloud, juju, cloudfoundry, framework charms]
+categories: [juju,  cloudfoundry]
+tags: ['framework charms', 'PAAS']
 author: "Ben Saller"
 author_url: "@bcsaller"
 ---
