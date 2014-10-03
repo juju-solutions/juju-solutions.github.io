@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A tail of two deployments""
+title: "A tail of two deployments"
 date: 2014-10-03 10:06
 comments: true
 categories: [cloud, juju, cloudfoundry, framework charms]
