@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "A tail of two deployments""
-date: 2014-09-11 10:06
+date: 2014-10-03 10:06
 comments: true
 categories: [cloud, juju, cloudfoundry, framework charms]
+author: "Ben Saller"
+author_url: "@bcsaller"
 ---
 
 By: @bcsaller w/ @whitmo
@@ -43,10 +45,9 @@ show the scope of change, look at the following:
 
 Then I deployed into cf.
 
-  ```
-  cd highscore
-  cf push
-  ```
+   cd highscore
+   cf push
+
 
 Pretty simple.
 
