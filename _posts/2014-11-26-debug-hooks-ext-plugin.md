@@ -9,7 +9,7 @@ author: "Cory Johns"
 author_url: "@johnsca"
 ---
 
-Following on from my [previous post](2014-10-24-debug-hooks-tmux-bindings.md),
+Following on from my [previous post](/cloud/juju/2014/10/24/2014-10-24-debug-hooks-tmux-bindings.md),
 I created a Juju plugin that allows you to fully and automatically customize
 the machines created by Juju, for the purposes of making developing and
 debugging hooks as painless as possible.
