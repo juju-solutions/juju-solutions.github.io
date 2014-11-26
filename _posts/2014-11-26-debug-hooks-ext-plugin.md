@@ -187,7 +187,7 @@ juju dhx -i bob
 
 For Bob to join your session, you will need to tell him the public address of
 the unit, which you can get from `juju status`.  Then, Bob can join your
-session with:
+session using the `--join` (or just `-j`) option:
 
 {% highlight bash %}
 juju dhx -j $public_address
@@ -195,3 +195,9 @@ juju dhx -j $public_address
 
 Bob will be connected and immediately brought into your tmux session.
 
+Bob can also join the session without using DHX, using the following:
+
+{% highlight bash %}
+ssh ubuntu@$public_address
+sudo tmux attach
+{% endhighlight %}
