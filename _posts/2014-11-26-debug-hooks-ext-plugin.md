@@ -198,6 +198,5 @@ Bob will be connected and immediately brought into your tmux session.
 Bob can also join the session without using DHX, using the following:
 
 {% highlight bash %}
-ssh ubuntu@$public_address
-sudo tmux attach
+ssh -t ubuntu@$public_address 'sudo tmux attach'
 {% endhighlight %}
