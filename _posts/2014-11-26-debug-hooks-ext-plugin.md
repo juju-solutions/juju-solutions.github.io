@@ -71,9 +71,9 @@ auto_restart: false
 EOF
 {% endhighlight %}
 
-This configuration will use the standard keybindings (C-b) for tmux instead of
-the screen keybindings (C-a) that debug-hooks normally uses.  It will also
-upload your VIM configuration and execute `my-dhx-init.sh` on the remote
+This configuration will use the standard keybindings (`Ctrl-b`) for tmux instead
+of the screen keybindings (`Ctrl-a`) that debug-hooks normally uses.  It will
+also upload your VIM configuration and execute `my-dhx-init.sh` on the remote
 machine upon the first connect to perform any additional customizations (e.g.,
 installing ipdb for improved debugging of charms written in python).
 
