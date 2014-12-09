@@ -45,12 +45,9 @@ Here is an overview of the features:
 
 # Installation and Setup
 
-Installing the plugin bundle is quite easy, and will give you access to DHX as
-well as all the other very useful Juju plugins in the bundle:
-
-{% highlight bash %}
-git clone http://github.com/juju/plugins ~/.juju-plugins
-{% endhighlight %}
+First, follow [the instructions in the README](https://github.com/juju/plugins#install)
+to install the plugin bundle.  This should be straightforward and will give
+you access to DHX as well as all the other very useful Juju plugins in the bundle.
 
 Next, you&apos;ll want to create a configuration file to define what customizations
 to perform:
