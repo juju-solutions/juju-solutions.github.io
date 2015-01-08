@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Using Juju with Container Technologies like Docker and Kubernetes"
+permalink: /containers.html
 ---
 
 This page will outline how we expect to use Juju with Docker and Kubernetes.
