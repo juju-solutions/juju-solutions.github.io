@@ -12,6 +12,7 @@ description:
 source:      .
 destination: ./_site
 plugins:     ./_plugins
+include: ['_pages']
 markdown: kramdown
 excerpt_separator: "<!-- more -->"
 gems:
