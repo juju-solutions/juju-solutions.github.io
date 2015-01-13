@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Using Juju with Container Technologies like Docker and Kubernetes"
 permalink: /containers.html
 ---
