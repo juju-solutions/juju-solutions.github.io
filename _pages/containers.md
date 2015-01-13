@@ -6,11 +6,10 @@ permalink: /containers.html
 
 This page will outline how we expect to use Juju with Docker and Kubernetes.
 
-
 ## Docker
 
-- https://github.com/chuckbutler/flannel-docker-charm
-- https://github.com/chuckbutler/docker-charm
+- [https://github.com/chuckbutler/flannel-docker-charm](https://github.com/chuckbutler/flannel-docker-charm)
+- [https://github.com/chuckbutler/docker-charm](https://github.com/chuckbutler/flannel-docker-charm)
 
 ## Kubernetes 
 
